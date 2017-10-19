@@ -1,11 +1,11 @@
-Python Sudeste 2017
+Python Sudeste 2018
 
 
 ### Set up & Install dependencies
 
 ```
-$ git clone git@github.com:pythonsudeste/pythonsudeste2017-site.git
-$ cd pythonsudeste2017-site
+$ git clone git@github.com:pythonsudeste/pythonsudeste2018-site.git
+$ cd pythonsudeste2018-site
 $ gem install jekyll
 ```
 
