@@ -31,5 +31,15 @@ $ gulp
 http://localhost:4000
 ```
 
+### Generate build to github.io
+
+```
+$ cd pythonsudeste2018-site
+$ gem install bundle
+$ bundle install
+$ npm install
+$ bundle exec jekyll build
+```
+
 ### Credits
 This project was created by [Designa](http://www.designa.com.br) for Python Brazil [11]
