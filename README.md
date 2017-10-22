@@ -1,45 +1,37 @@
-Python Sudeste 2018
+# Python Sudeste 2018
 
 
-### Set up & Install dependencies
+## Set up
 
-```
+```console
 $ git clone git@github.com:pythonsudeste/pythonsudeste2018-site.git
 $ cd pythonsudeste2018-site
-$ gem install jekyll
-```
-
-### Server
-
-```
-$ jekyll serve
-```
-
-### Gulp
-
-```
-# To install gulp deps
+$ gem install bundler
+$ bundle install
 $ npm install
+```
 
-# If you need to rebuild javascript
+## Gulp
+
+```console
+# Caso precise fazer o rebuild do javascript
 $ gulp
 ```
 
-### Using a browser, go to:
+## Conferindo as mudanças
 
+```console
+$ bundle exec jekyll serve
+# no navegador abra: localhost:4000
 ```
-http://localhost:4000
-```
+_Tenha em mente que o comando `serve` irá gerar um build da página_
 
-### Generate build to github.io
+## Fazendo build
 
-```
+```console
 $ cd pythonsudeste2018-site
-$ gem install bundle
-$ bundle install
-$ npm install
 $ bundle exec jekyll build
 ```
 
-### Credits
-This project was created by [Designa](http://www.designa.com.br) for Python Brazil [11]
+## Créditos
+Adaptado do projeto original criado pela [Designa](http://www.designa.com.br) para a PythonBrazil[11]
