@@ -11,6 +11,14 @@ $ bundle install
 $ npm install
 ```
 
+## Instalando no Ubuntu
+
+Para poder instalar todas as bibliotecas, é necessário instalar o pacote `ruby-dev`.
+
+```console
+$ sudo apt-get install ruby-dev
+```
+
 ## Gulp
 
 ```console
