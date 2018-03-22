@@ -64,8 +64,6 @@
     }
 
     .day-description {
-      margin: 0 0 50px 0;
-
       a {
         color: #1D8BF6;
       }
@@ -121,50 +119,66 @@
         border-radius: .25em;
       }
 
-      .track-keynote {
-        background-color: #777;
-      }
-
-      .track-lightning-talk {
-        background-color: #d9534f;
-      }
-
-      .track-career {
-        background-color: #337ab7;
-      }
-
-      .track-web {
-        background-color: #f0ad4e;
-      }
-
-      .track-pydata {
-        background-color: #5bc0de;
-      }
-
-      .track-beginners {
-        background-color: #5cb85c;
-      }
-
-      .track-tutorials {
-        background-color: #f1c40f;
-      }
-
       .talk {
         color: $blue;
         font-family: "Panton Light";
         padding-bottom: 0px;
+        margin-top: 8px;
+      }
+
+      // orange
+      .track-keynote {
+        background-color: #ef9c17;
+      }
+
+      // yellow
+      .track-lt {
+        background-color: #afafaf;
+      }
+
+      // yellow
+      .track-talk {
+        background-color: #000000;
+      }
+
+      // yellow
+      .track-tutorial {
+        background-color: #356F9F;
+      }
+
+      .track-0 {
+        background-color: #2ae72a;
+      }
+
+      // red
+      .track-1 {
+        background-color: #f00000;
+      }
+
+      // aqua marine
+      .track-5 {
+        background-color: #0bd9c0;
+      }
+
+      // light blue
+      .track-4 {
+        background-color: #50abff;
+      }
+
+      // pink
+      .track-3 {
+        background-color: #ff00c1;
+      }
+
+      // purple
+      .track-2 {
+        background-color: #a700f7;
       }
 
       .speaker {
         font-family: "Helvetica", sans-serif;
         color: #333;
-        margin-bottom: 1.5em;
-      }
-
-      .speaker:last-child {
-        margin-bottom: 4em;
       }
     }
   }
 }
-
