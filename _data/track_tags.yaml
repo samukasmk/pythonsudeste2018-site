@@ -1,0 +1,12 @@
+---
+track0: <span class="track track-0">Hall de entrada</span>
+track1: <span class="track track-1">Sala Ada Lovelace</span>
+track2: <span class="track track-2">Sala Dorothy Vaughan</span>
+track3: <span class="track track-3">Sala Grace Hooper</span>
+track4: <span class="track track-4">Sala Katherine Johnson</span>
+track5: <span class="track track-5">Sala Mary Jackson</span>
+
+keynote: <span class="track track-keynote">Keynote</span>
+lt: <span class="track track-lt">Lightining Talks</span>
+talk: <span class="track track-talk">Palestra</span>
+tutorial: <span class="track track-tutorial">Tutorial</span
