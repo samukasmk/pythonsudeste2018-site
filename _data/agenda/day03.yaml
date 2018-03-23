@@ -34,6 +34,7 @@ agenda:
     tracks:
       - name: 'API Star: novo framework REST do criador do DRF'
         speaker: 'Luciano Ratamero'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#api-star-novo-framework-rest-do-criador-do-drf'
         tags:
           - track-dorothy
           - palestra
@@ -42,6 +43,7 @@ agenda:
     tracks:
       - name: 'GUIs em Python para o seu acelerador de partículas (Projeto Sirius)'
         speaker: 'Laís Pessine do Carmo'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#cientificoprojeto-sirius-guis-em-python-para-o-seu-acelerador-de-particulas'
         tags:
           - track-grace
           - palestra
@@ -50,6 +52,7 @@ agenda:
     tracks:
       - name: 'Flora do Campus: Identificação e Mapeamento das Árvores do Campus da Unesp de Rio Claro/SP'
         speaker: 'Fabiula Moreno Arantes'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#web-flora-do-campus-identificacao-e-mapeamento-de-especies-vegetais-arboreas-e-palmeiras-do-campus-da-unesp-de-rio-clarosp'
         tags:
           - track-ada
           - palestra
@@ -58,6 +61,7 @@ agenda:
     tracks:
       - name: 'CI/CD - Automatizando a entrega da sua aplicação'
         speaker: 'Yros Aguiar'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#cicd-automatizando-a-entrega-da-sua-aplicacao'
         tags:
           - track-dorothy
           - palestra
@@ -66,6 +70,7 @@ agenda:
     tracks:
       - name: 'PL/Python - Programando em Python no PostgreSQL'
         speaker: 'Juliano Atanazio'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#plpython-programando-em-python-no-postgresql'
         tags:
           - track-grace
           - palestra
@@ -99,6 +104,7 @@ agenda:
     tracks:
       - name: 'Máquinas de estado em Python'
         speaker: 'Fernando Gomes de Macedo'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#maquinas-de-estado-em-python'
         tags:
           - track-dorothy
           - palestra
@@ -107,6 +113,7 @@ agenda:
     tracks:
       - name: 'Pytest + Docker: um jeito fácil de ter testes de integração'
         speaker: 'Rafael Reimberg Lima'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#pytest-docker-um-jeito-facil-de-ter-testes-de-integracao'
         tags:
           - track-ada
           - palestra
@@ -115,6 +122,7 @@ agenda:
     tracks:
       - name: 'Weppy - O framework web para humanos'
         speaker: 'Regis da Silva Santos'
+        link: https://speakerfight.com/events/python-sudeste-2018-palestras/#weppy-o-framework-web-para-humanos-2
         tags:
           - track-grace
           - palestra
@@ -140,6 +148,7 @@ agenda:
     tracks:
       - name: '[ChatBot] [Web] Bot Command - Automatizando tarefas utilizando Python + Django + Telegram!'
         speaker: 'Rafael Galleani'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#chatbotweb-bot-command-automatizando-tarefas-utilizando-python-django-telegram'
         tags:
           - track-ada
           - palestra
@@ -181,6 +190,7 @@ agenda:
     tracks:
       - name: 'Scrapy para usuários de bs4'
         speaker: 'Henrique Barbosa Coura'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#web-scraping-scrapy-para-usuarios-de-bs4'
         tags:
           - track-grace
           - palestra
@@ -189,6 +199,7 @@ agenda:
     tracks:
       - name: 'Machine Learning com Python - Da Teoria ao Primeiro Deploy em Produção'
         speaker: 'Bruno Ábia Souza'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#data-sciencecientifico-machine-learning-com-python-da-teoria-ao-primeiro-deploy-em-producao'
         tags:
           - track-ada
           - palestra
@@ -197,6 +208,7 @@ agenda:
     tracks:
       - name: 'Programando a Felicidade'
         speaker: 'Renzo Nuccitelli'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#programando-a-felicidade-2'
         tags:
           - track-dorothy
           - palestra
@@ -213,6 +225,7 @@ agenda:
     tracks:
       - name: '[Blockchain] Criando aplicações descentralizadas com Python!'
         speaker: 'Aron de Castro Coelho'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#blockchain-criando-aplicacoes-descentralizadas-com-python'
         tags:
           - track-ada
           - palestra

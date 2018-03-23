@@ -49,6 +49,7 @@ agenda:
     tracks:
       - name: 'Informação Salva: Python ajudando a entender um problema silencioso de saúde pública no Brasil e no mundo, o Suicídio'
         speaker: 'Marcelo Andriolli'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#informacao-salva-python-ajudando-a-entender-um-problema-silencioso-de-saude-publica-no-brasil-e-no-mundo-o-suicidio'
         tags:
           - track-dorothy
           - palestra
@@ -57,6 +58,7 @@ agenda:
     tracks:
       - name: 'Como convencer a empresa que a tecnologia "legada" necessita ser migrada para Python'
         speaker: 'Marcelo dos Santos Moraes Junior'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#como-convencer-a-empresa-que-a-tecnologia-legada-necessita-ser-migrada-para-python'
         tags:
           - track-grace
           - palestra
@@ -65,6 +67,7 @@ agenda:
     tracks:
       - name: 'Django Rest Framework - Criando APIs Rest com 3 linhas de código'
         speaker: 'Carlos André Santos Machado'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#web-django-rest-framework-criando-apis-rest-com-3-linhas-de-codigo'
         tags:
           - track-dorothy
           - palestra
@@ -73,6 +76,7 @@ agenda:
     tracks:
       - name: 'Hackeando o setor público com Python'
         speaker: 'Eduardo Spanó, Vitor Hirota, Jessika Darambaris'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#hackeando-o-setor-publico-com-python'
         tags:
           - track-ada
           - palestra
@@ -81,6 +85,7 @@ agenda:
     tracks:
       - name: 'Programação Assíncrona com Twisted'
         speaker: 'Tonny Dourado'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#programacao-assincrona-com-twisted'
         tags:
           - track-grace
           - palestra
@@ -115,6 +120,7 @@ agenda:
     tracks:
       - name: '[DevOps] Rodando sua aplicação python no kubernetes'
         speaker: 'Yago Nobre dos Santos'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#devopsrodando-sua-aplicacao-python-no-kubernetes'
         tags:
           - track-dorothy
           - palestra
@@ -123,6 +129,7 @@ agenda:
     tracks:
       - name: 'Deep NLP - Redes neurais revolucionando o processamento de linguagem natural'
         speaker: 'Bárbara Barbosa'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#cientificodata-science-deep-nlp-redes-neurais-revolucionando-o-processamento-de-linguagem-natural'
         tags:
           - track-ada
           - palestra
@@ -131,6 +138,7 @@ agenda:
     tracks:
       - name: 'CherryPy - um framework simples, sólido e eficiente'
         speaker: 'Paulo Henrique Rodrigues Pinheiro'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#cherrypy-um-framwork-simples-solido-e-eficiente'
         tags:
           - track-grace
           - palestra
@@ -139,6 +147,7 @@ agenda:
     tracks:
       - name: 'Python + FabLab - Programando objetos para fabricação digital'
         speaker: 'Luiz Lima'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#maker-python-fablab-programando-objetos-para-fabricacao-digital'
         tags:
           - track-dorothy
           - palestra
@@ -147,6 +156,7 @@ agenda:
     tracks:
       - name: '[Web] [Startups] De Startup a Enterprise: os problemas e as soluções do Python na trajetória de uma empresa'
         speaker: 'Gabriel Marcondes'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#webstartups-de-startup-a-enterprise-os-problemas-e-as-solucoes-do-python-na-trajetoria-de-uma-empresa'
         tags:
           - track-ada
           - palestra
@@ -198,6 +208,7 @@ agenda:
     tracks:
       - name: 'Explorando QuerySets do Django'
         speaker: 'Mariana Bedran Lesche'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#explorando-querysets-do-django'
         tags:
           - track-ada
           - palestra
@@ -206,6 +217,7 @@ agenda:
     tracks:
       - name: 'Pedagogia Tecnológica'
         speaker: 'Thaíssa Falbo'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#pedagogia-tecnologica'
         tags:
           - track-dorothy
           - palestra
@@ -214,6 +226,7 @@ agenda:
     tracks:
       - name: 'Construindo sua primeira aplicação Assíncrona com Python - AioHttp'
         speaker: 'Lays Rodrigues Silva'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#construindo-sua-primeira-aplicacao-assincrona-com-python-aiohttp'
         tags:
           - track-ada
           - palestra

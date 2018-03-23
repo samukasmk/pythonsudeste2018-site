@@ -34,6 +34,7 @@ agenda:
     tracks:
       - name: 'Python Web Frameworks - Quais são e como escolher!'
         speaker: 'Bianca Rosa de Mendonça'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#web-python-web-frameworks-quais-sao-e-como-escolher'
         tags:
           - track-dorothy
           - palestra
@@ -42,6 +43,7 @@ agenda:
     tracks:
       - name: 'Jujubot: Implementando um twitter bot da Vovó Juju'
         speaker: 'Francisco Fernandes'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#chatbotjujubot-implementando-um-twitter-bot-da-vovo-juju'
         tags:
           - track-grace
           - palestra
@@ -66,6 +68,7 @@ agenda:
     tracks:
       - name: 'AWS - Uma visão ampla sobre a cloud da Amazon'
         speaker: 'Michael Willian Trindade Coelho'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#cloud-aws-uma-visao-ampla-sobre-a-cloud-da-amazon'
         tags:
           - track-grace
           - palestra
@@ -105,6 +108,7 @@ agenda:
     tracks:
       - name: 'Fazendo Música com Sonic Pi'
         speaker: 'Diego (Dukão) Moreira Guimarães'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#fazendo-musica-com-sonic-pi'
         tags:
           - track-dorothy
           - palestra
@@ -113,6 +117,7 @@ agenda:
     tracks:
       - name: '[Rede Neural] [Científico] O que você precisa saber sobre o básico de uma rede neural'
         speaker: 'Paula Santos'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#rede-neuralcientifico-o-que-voce-precisa-saber-sobre-o-basico-de-uma-rede-neural'
         tags:
           - track-ada
           - palestra
@@ -121,6 +126,7 @@ agenda:
     tracks:
       - name: 'Mas cadê as oportunidades Python ?'
         speaker: 'Vinicius Mesel'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#mas-cade-as-oportunidades-de-python-elas-estao-na-comunidade-e-no-pyjobs'
         tags:
           - track-grace
           - palestra
@@ -129,6 +135,7 @@ agenda:
     tracks:
       - name: 'NES Hacks 2 - The Mission'
         speaker: 'Guto Maia'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#nes-hacks-2-the-mission'
         tags:
           - track-dorothy
           - palestra
@@ -137,6 +144,7 @@ agenda:
     tracks:
       - name: 'De olho no Congresso com Python e Dados Abertos'
         speaker: 'Lucas Teixeira'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#de-olho-no-congresso-com-python-e-dados-abertos'
         tags:
           - track-ada
           - palestra
@@ -175,6 +183,7 @@ agenda:
     tracks:
       - name: '[Web] Construindo uma visualização de sentimento real-time do Twitter usando emojis'
         speaker: 'Thiago Garcia da Silva'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#web-construindo-uma-visualizacao-de-sentimento-real-time-do-twitter-usando-emojis'
         tags:
           - track-grace
           - palestra
@@ -183,6 +192,7 @@ agenda:
     tracks:
       - name: 'Padrões para testes de tela com Python + Selenium e como evitar testes instáveis'
         speaker: 'Celso Crivelaro'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#web-padroes-para-testes-de-tela-com-python-selenium-para-bom-codigo-e-sem-testes-instaveis'
         tags:
           - track-ada
           - palestra
@@ -191,6 +201,7 @@ agenda:
     tracks:
       - name: 'Arquitetura da Open edX'
         speaker: 'Jean Carlo Ferreira de Oliveira'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#arquitetura-da-open-edx'
         tags:
           - track-dorothy
           - palestra
