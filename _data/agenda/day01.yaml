@@ -10,12 +10,10 @@ is_active: true
 agenda:
   - hour: "08:00"
     tracks:
-      - name: "Informação Salva: Python ajudando a entender um problema silencioso de saúde pública no Brasil e no mundo, o Suicídio"
-        speaker: Marcelo
-        link: http://xpot.com
+      - name: "Credenciamento"
+        speaker: Organização
         tags:
-          - track1
-          - talk
+          - track0
 
       - name: "Minha primeira palestra"
         speaker: Samuka

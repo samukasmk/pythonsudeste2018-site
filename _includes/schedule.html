@@ -41,7 +41,11 @@
 
           <!-- nome da trilha -->
           <p class="talk">
-            <a href="{{ track.link }}" target="_blank" class="link">{{ track.name }}</a>
+          {% if track.link %}
+            <a href="{{ track.link }}" target="_blank">{{ track.name }}</a>
+          {% else %}
+            {{ track.name }}
+          {% endif %}
           </p>
 
           <!-- palestrante da trilha -->
