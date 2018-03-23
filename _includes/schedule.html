@@ -35,9 +35,11 @@
 
         {% for track in agenda.tracks %}
           <!-- tags da trilha -->
-          {% for tag in track.tags %}
-            {{ site.data.track_tags | map: tag }}
-          {% endfor %}
+          {% if track.tags %}
+            {% for tag in track.tags %}
+              {{ site.data.track_tags | map: tag }}
+            {% endfor %}
+          {% endif %}
 
           <!-- nome da trilha -->
           <p class="talk">
@@ -49,7 +51,9 @@
           </p>
 
           <!-- palestrante da trilha -->
+          {% if track.speaker %}
           <p class="speaker">{{ track.speaker }}</p>
+          {% endif %}
         {% endfor %}
         </div>
       {% endfor %}
