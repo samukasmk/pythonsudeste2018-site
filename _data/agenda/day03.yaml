@@ -20,11 +20,13 @@ agenda:
     tracks:
       - name: 'Tutorial a definir'
         speaker: 'Palestrante a definir'
+        duration: 'a definir'
         tags:
           - track-mary
           - tutorial
       - name: 'Tutorial a definir'
         speaker: 'Palestrante a definir'
+        duration: 'a definir'
         tags:
           - track-kate
           - tutorial
@@ -99,6 +101,7 @@ agenda:
     tracks:
       - name: 'Tutorial a definir'
         speaker: 'Palestrante a definir'
+        duration: 'a definir'
         tags:
           - track-mary
           - tutorial
@@ -131,6 +134,7 @@ agenda:
     tracks:
       - name: 'Tutorial a definir'
         speaker: 'Palestrante a definir'
+        duration: 'a definir'
         tags:
           - track-kate
           - tutorial
@@ -173,6 +177,7 @@ agenda:
     tracks:
       - name: 'Tutorial a definir'
         speaker: 'Palestrante a definir'
+        duration: 'a definir'
         tags:
           - track-mary
           - tutorial
@@ -181,6 +186,7 @@ agenda:
     tracks:
       - name: 'Tutorial a definir'
         speaker: 'Palestrante a definir'
+        duration: 'a definir'
         tags:
           - track-kate
           - tutorial

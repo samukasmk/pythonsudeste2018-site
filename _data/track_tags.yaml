@@ -1,8 +1,8 @@
 ---
 track-hall: '<span class="track label-green">Hall de entrada</span>'
 track-ada: '<span class="track label-red">1 - Sala Ada Lovelace</span>'
-track-dorothy: '<span class="track label-purple">Sala Dorothy Vaughan</span>'
-track-grace: '<span class="track label-pink">Sala Grace Hooper</span>'
+track-dorothy: '<span class="track label-purple">2 - Sala Dorothy Vaughan</span>'
+track-grace: '<span class="track label-pink">3 - Sala Grace Hooper</span>'
 track-mary: '<span class="track label-cyan">4 - Sala Mary Jackson</span>'
 track-kate: '<span class="track label-aqua-marine">5 - Sala Katherine Johnson</span>'
 

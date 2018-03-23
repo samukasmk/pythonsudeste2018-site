@@ -50,6 +50,11 @@
           {% endif %}
           </p>
 
+          <!-- duracao da trilha -->
+          {% if track.duration %}
+          <p class="duration">Duração: {{ track.duration }}</p>
+          {% endif %}
+
           <!-- palestrante da trilha -->
           {% if track.speaker %}
           <p class="speaker">{{ track.speaker }}</p>
