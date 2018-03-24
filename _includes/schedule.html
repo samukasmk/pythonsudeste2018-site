@@ -1,30 +1,68 @@
 <section class="schedule" id="schedule">
   <div class="row">
     <h1>Programação</h1>
+    <p class="schedule-description">30 de março a 1 de abril - Palestras e tutoriais todos os dias</p>
 
-    <p class="schedule-description">28 - Palestras | 29 - Palestras e Tutoriais | 30 - Sprints</p>
-
-<!--     <nav class="days">
+    <!-- botoes de cada dia -->
+    <nav class="days">
       <ul class="list">
-        <li class="item">
-          <a href="#day01" class="item-link active">Primeiro Dia</a>
-        </li>
 
-        <li class="item">
-          <a href="#day02" class="item-link">Segundo Dia</a>
-        </li>
+      {% for day_file in site.data.agenda.active_days %}
+          {% assign day = site.data.agenda | map: day_file %}
+          {% assign day = day.first %}
+          <li class="item">
+            <a href="#{{ day.id }}" class="item-link {% if day.is_active %}active{% endif %}">{{ day.title }}</a>
+          </li>
 
-        <li class="item">
-          <a href="#day03" class="item-link">Terceiro Dia</a>
-        </li>
+      {% endfor %}
       </ul>
     </nav>
 
-    {% include _day01.html %}
+  <!-- grade dos dias -->
+  {% for day_file in site.data.agenda.active_days %}
+    {% assign day = site.data.agenda | map: day_file %}
+    {% assign day = day.first %}
+    <div class="room {% if day.is_active %}active{% endif %}" id="{{ day.id }}">
+      <!-- descricao e local do dia -->
+      <h1>{{ day.header }}</h1>
+      <p class="day-description">{{ day.description }}</p>
+      <p class="local">LOCAL: <a href="{{ day[1].place_link }}" target="_blank" class="link">{{ day.place_name }}</a></p>
 
-    {% include _day02.html %}
+      {% for agenda in day.agenda %}
+        <!-- horario da trilha -->
+        <div class="lecture">
+          <p class="hour"><time>{{ agenda.hour }}</time></p>
 
-    {% include _day03.html %} -->
+        {% for track in agenda.tracks %}
+          <!-- tags da trilha -->
+          {% if track.tags %}
+            {% for tag in track.tags %}
+              {{ site.data.track_tags | map: tag }}
+            {% endfor %}
+          {% endif %}
 
+          <!-- nome da trilha -->
+          <p class="talk">
+          {% if track.link %}
+            <a href="{{ track.link }}" target="_blank">{{ track.name }}</a>
+          {% else %}
+            {{ track.name }}
+          {% endif %}
+          </p>
+
+          <!-- duracao da trilha -->
+          {% if track.duration %}
+          <p class="duration">Duração: {{ track.duration }}</p>
+          {% endif %}
+
+          <!-- palestrante da trilha -->
+          {% if track.speaker %}
+          <p class="speaker">{{ track.speaker }}</p>
+          {% endif %}
+        {% endfor %}
+        </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
   </div>
 </section>

@@ -1,0 +1,12 @@
+---
+track-hall: '<span class="track label-green">Hall de entrada</span>'
+track-ada: '<span class="track label-red">Sala Ada Lovelace</span>'
+track-dorothy: '<span class="track label-purple">Sala Dorothy Vaughan</span>'
+track-grace: '<span class="track label-pink">Sala Grace Hooper</span>'
+track-mary: '<span class="track label-cyan">Sala Mary Jackson</span>'
+track-kate: '<span class="track label-aqua-marine">Sala Katherine Johnson</span>'
+
+keynote: '<span class="track label-orange"><i class="fa fa-key"></i> Keynote</span>'
+lt: '<span class="track label-gray"><i class="fa fa-users"></i> Lightining Talks</span>'
+palestra: '<span class="track label-black"><i class="fa fa-microphone"></i> Palestra</span>'
+tutorial: '<span class="track label-navy"><i class="fa fa-laptop" aria-hidden="true"></i> Tutorial</span>'

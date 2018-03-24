@@ -1,0 +1,245 @@
+---
+id: day01
+title: Dia 30/03
+header: Palestras e Tutoriais
+description: Palestras de 35 a 50 minutos e tutoriais com tempos variados, com palestrantes renomados da comunidade.
+place_name: BandTec Digital School
+place_link: https://goo.gl/FgJHvA
+is_active: true
+
+agenda:
+  - hour: '08:00'
+    tracks:
+      - name: 'Credenciamento'
+        speaker: 'Organização'
+        tags:
+          - track-hall
+
+  - hour: '09:00'
+    tracks:
+      - name: 'Abertura'
+        speaker: 'Organização'
+        tags:
+          - track-hall
+
+  - hour: '09:35'
+    tracks:
+      - name: 'Tutorial a definir'
+        speaker: 'Palestrante a definir'
+        duration: 'a definir'
+        tags:
+          - track-mary
+          - tutorial
+      - name: 'Tutorial a definir'
+        speaker: 'Palestrante a definir'
+        duration: 'a definir'
+        tags:
+          - track-kate
+          - tutorial
+
+  - hour: '09:40'
+    tracks:
+      - name: 'Keynote'
+        speaker: 'Cássio Botaro'
+        tags:
+          - track-ada
+          - keynote
+
+  - hour: '09:50'
+    tracks:
+      - name: 'Informação Salva: Python ajudando a entender um problema silencioso de saúde pública no Brasil e no mundo, o Suicídio'
+        speaker: 'Marcelo Andriolli'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#informacao-salva-python-ajudando-a-entender-um-problema-silencioso-de-saude-publica-no-brasil-e-no-mundo-o-suicidio'
+        tags:
+          - track-dorothy
+          - palestra
+
+  - hour: '10:00'
+    tracks:
+      - name: 'Como convencer a empresa que a tecnologia "legada" necessita ser migrada para Python'
+        speaker: 'Marcelo dos Santos Moraes Junior'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#como-convencer-a-empresa-que-a-tecnologia-legada-necessita-ser-migrada-para-python'
+        tags:
+          - track-grace
+          - palestra
+
+  - hour: '10:45'
+    tracks:
+      - name: 'Django Rest Framework - Criando APIs Rest com 3 linhas de código'
+        speaker: 'Carlos André Santos Machado'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#web-django-rest-framework-criando-apis-rest-com-3-linhas-de-codigo'
+        tags:
+          - track-dorothy
+          - palestra
+
+  - hour: '10:50'
+    tracks:
+      - name: 'Hackeando o setor público com Python'
+        speaker: 'Eduardo Spanó, Vitor Hirota, Jessika Darambaris'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#hackeando-o-setor-publico-com-python'
+        tags:
+          - track-ada
+          - palestra
+
+  - hour: '10:55'
+    tracks:
+      - name: 'Programação Assíncrona com Twisted'
+        speaker: 'Tonny Dourado'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#programacao-assincrona-com-twisted'
+        tags:
+          - track-grace
+          - palestra
+
+  - hour: 'Almoço &nbsp;&nbsp;<i class="fa fa-utensils" aria-hidden="true"></i>'
+    tracks:
+      - name: '11:35 - <span class="track label-cyan">Sala Mary Jackson</span>'
+      - name: '11:40 - <span class="track label-purple">Sala Dorothy Vaughan</span>'
+      - name: '11:45 - <span class="track label-red">Sala Ada Lovelace</span>'
+      - name: '11:50 - <span class="track label-pink">Sala Grace Hooper</span>'
+      - name: '12:05 - <span class="track label-aqua-marine">Sala Katherine Johnson</span>'
+
+  - hour: '12:35'
+    tracks:
+      - name: 'Tutorial a definir'
+        speaker: 'Palestrante a definir'
+        duration: 'a definir'
+        tags:
+          - track-mary
+          - tutorial
+
+  - hour: '13:05'
+    tracks:
+      - name: 'Tutorial a definir'
+        speaker: 'Palestrante a definir'
+        duration: 'a definir'
+        tags:
+          - track-kate
+          - tutorial
+
+  - hour: '13:10'
+    tracks:
+      - name: '[DevOps] Rodando sua aplicação python no kubernetes'
+        speaker: 'Yago Nobre dos Santos'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#devopsrodando-sua-aplicacao-python-no-kubernetes'
+        tags:
+          - track-dorothy
+          - palestra
+
+  - hour: '13:15'
+    tracks:
+      - name: 'Deep NLP - Redes neurais revolucionando o processamento de linguagem natural'
+        speaker: 'Bárbara Barbosa'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#cientificodata-science-deep-nlp-redes-neurais-revolucionando-o-processamento-de-linguagem-natural'
+        tags:
+          - track-ada
+          - palestra
+
+  - hour: '13:20'
+    tracks:
+      - name: 'CherryPy - um framework simples, sólido e eficiente'
+        speaker: 'Paulo Henrique Rodrigues Pinheiro'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#cherrypy-um-framwork-simples-solido-e-eficiente'
+        tags:
+          - track-grace
+          - palestra
+
+  - hour: '14:05'
+    tracks:
+      - name: 'Python + FabLab - Programando objetos para fabricação digital'
+        speaker: 'Luiz Lima'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#maker-python-fablab-programando-objetos-para-fabricacao-digital'
+        tags:
+          - track-dorothy
+          - palestra
+
+  - hour: '14:10'
+    tracks:
+      - name: 'Design e Desenvolvimento (Comunicação e Integração)'
+        speaker: 'Thais Viana'
+        tags:
+          - track-ada
+          - palestra
+
+  - hour: '14:15'
+    tracks:
+      - name: 'Lightining Talks'
+        tags:
+          - track-grace
+          - lt
+
+  - hour: 'Pausa (Networking) &nbsp;&nbsp;<i class="fa fa-lemon" aria-hidden="true"></i>'
+    tracks:
+      - name: '13:55 - <span class="track label-cyan">Sala Mary Jackson</span>'
+      - name: '14:35 - <span class="track label-aqua-marine">Sala Katherine Johnson</span>'
+      - name: '14:50 - <span class="track label-pink">Sala Grace Hooper</span>'
+      - name: '15:00 - <span class="track label-purple">Sala Dorothy Vaughan</span>'
+      - name: '15:05 - <span class="track label-red">Sala Ada Lovelace</span>'
+
+
+  - hour: '14:55'
+    tracks:
+      - name: 'Tutorial a definir'
+        speaker: 'Palestrante a definir'
+        duration: 'a definir'
+        tags:
+          - track-mary
+          - tutorial
+
+  - hour: '15:35'
+    tracks:
+      - name: 'Tutorial a definir'
+        speaker: 'Palestrante a definir'
+        duration: 'a definir'
+        tags:
+          - track-kate
+          - tutorial
+
+  - hour: '15:55'
+    tracks:
+      - name: 'Tutorial a definir'
+        speaker: 'Palestrante a definir'
+        duration: 'a definir'
+        tags:
+          - track-grace
+          - tutorial
+
+  - hour: '16:05'
+    tracks:
+      - name: '[Web] [Startups] De Startup a Enterprise: os problemas e as soluções do Python na trajetória de uma empresa'
+        speaker: 'Gabriel Marcondes'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#webstartups-de-startup-a-enterprise-os-problemas-e-as-solucoes-do-python-na-trajetoria-de-uma-empresa'
+        tags:
+          - track-ada
+          - palestra
+
+
+  - hour: '16:10'
+    tracks:
+      - name: 'Pedagogia Tecnológica'
+        speaker: 'Thaíssa Falbo'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#pedagogia-tecnologica'
+        tags:
+          - track-dorothy
+          - palestra
+
+  - hour: '17:00'
+    tracks:
+      - name: 'Construindo sua primeira aplicação Assíncrona com Python - AioHttp'
+        speaker: 'Lays Rodrigues Silva'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#construindo-sua-primeira-aplicacao-assincrona-com-python-aiohttp'
+        tags:
+          - track-ada
+          - palestra
+
+  - hour: '17:05'
+    tracks:
+      - name: 'Lightining Talks'
+        tags:
+          - track-hall
+          - lt
+
+  - hour: '17:55'
+    tracks:
+      - name: 'Encerramento'
+        tags:
+          - track-hall

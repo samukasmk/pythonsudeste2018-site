@@ -64,8 +64,6 @@
     }
 
     .day-description {
-      margin: 0 0 50px 0;
-
       a {
         color: #1D8BF6;
       }
@@ -104,10 +102,6 @@
         font-family: "Panton Bold";
       }
 
-      .hour {
-        margin-bottom: 1em;
-      }
-
       .track {
         display: inline;
         padding: .2em .6em;
@@ -121,38 +115,50 @@
         border-radius: .25em;
       }
 
-      .track-keynote {
-        background-color: #777;
-      }
-
-      .track-lightning-talk {
-        background-color: #d9534f;
-      }
-
-      .track-career {
-        background-color: #337ab7;
-      }
-
-      .track-web {
-        background-color: #f0ad4e;
-      }
-
-      .track-pydata {
-        background-color: #5bc0de;
-      }
-
-      .track-beginners {
-        background-color: #5cb85c;
-      }
-
-      .track-tutorials {
-        background-color: #f1c40f;
-      }
-
       .talk {
         color: $blue;
-        font-family: "Panton Light";
         padding-bottom: 0px;
+        margin-top: 8px;
+      }
+
+      .label-orange {
+        background-color: #ef9c17;
+      }
+
+      .label-gray {
+        background-color: #afafaf;
+      }
+
+      .label-black {
+        background-color: #000000;
+      }
+
+      .label-navy {
+        background-color: #356F9F;
+      }
+
+      .label-green {
+        background-color: #2ae72a;
+      }
+
+      .label-red {
+        background-color: #f00000;
+      }
+
+      .label-aqua-marine {
+        background-color: #0bd9c0;
+      }
+
+      .label-cyan {
+        background-color: #50abff;
+      }
+
+      .label-pink {
+        background-color: #ff00c1;
+      }
+
+      .label-purple {
+        background-color: #a700f7;
       }
 
       .speaker {
@@ -161,10 +167,10 @@
         margin-bottom: 1.5em;
       }
 
-      .speaker:last-child {
-        margin-bottom: 4em;
+      .duration {
+        font-family: "Helvetica", sans-serif;
+        color: #333;
       }
     }
   }
 }
-
