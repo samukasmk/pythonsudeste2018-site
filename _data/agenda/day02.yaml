@@ -50,8 +50,9 @@ agenda:
 
   - hour: '09:50'
     tracks:
-      - name: 'Design e Desenvolvimento (Comunicação e Integração)'
-        speaker: 'Thais Viana'
+      - name: 'Explorando QuerySets do Django'
+        speaker: 'Mariana Bedran Lesche'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#explorando-querysets-do-django'
         tags:
           - track-ada
           - palestra
