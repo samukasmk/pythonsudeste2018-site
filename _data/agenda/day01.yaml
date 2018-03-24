@@ -154,9 +154,8 @@ agenda:
 
   - hour: '14:10'
     tracks:
-      - name: '[Web] [Startups] De Startup a Enterprise: os problemas e as soluções do Python na trajetória de uma empresa'
-        speaker: 'Gabriel Marcondes'
-        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#webstartups-de-startup-a-enterprise-os-problemas-e-as-solucoes-do-python-na-trajetoria-de-uma-empresa'
+      - name: 'Design e Desenvolvimento (Comunicação e Integração)'
+        speaker: 'Thais Viana'
         tags:
           - track-ada
           - palestra
@@ -206,12 +205,14 @@ agenda:
 
   - hour: '16:05'
     tracks:
-      - name: 'Design e Desenvolvimento (Comunicação e Integração)'
-        speaker: 'Thais Viana'
+      - name: '[Web] [Startups] De Startup a Enterprise: os problemas e as soluções do Python na trajetória de uma empresa'
+        speaker: 'Gabriel Marcondes'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#webstartups-de-startup-a-enterprise-os-problemas-e-as-solucoes-do-python-na-trajetoria-de-uma-empresa'
         tags:
           - track-ada
           - palestra
-    
+
+
   - hour: '16:10'
     tracks:
       - name: 'Pedagogia Tecnológica'
