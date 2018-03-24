@@ -118,9 +118,8 @@ agenda:
 
   - hour: '13:10'
     tracks:
-      - name: '[DevOps] Rodando sua aplicação python no kubernetes'
-        speaker: 'Yago Nobre dos Santos'
-        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#devopsrodando-sua-aplicacao-python-no-kubernetes'
+      - name: 'Palestra a definir'
+        speaker: 'Palestrante a definir'
         tags:
           - track-dorothy
           - palestra
