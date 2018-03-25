@@ -32,9 +32,8 @@ agenda:
 
   - hour: '09:40'
     tracks:
-      - name: 'Python Web Frameworks - Quais são e como escolher!'
-        speaker: 'Bianca Rosa de Mendonça'
-        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#web-python-web-frameworks-quais-sao-e-como-escolher'
+      - name: 'Palestra a definir'
+        speaker: 'Palestrante a definir'
         tags:
           - track-dorothy
           - palestra
@@ -152,7 +151,7 @@ agenda:
 
   - hour: '14:15'
     tracks:
-      - name: 'Lightining Talks'
+      - name: 'Lightning Talks'
         tags:
           - track-grace
           - lt
@@ -209,8 +208,9 @@ agenda:
 
   - hour: '16:55'
     tracks:
-      - name: 'Paletra a definir'
-        speaker: 'Paletrante a definir'
+      - name: 'Python Web Frameworks - Quais são e como escolher!'
+        speaker: 'Bianca Rosa de Mendonça'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#web-python-web-frameworks-quais-sao-e-como-escolher'
         tags:
           - track-grace
           - palestra
@@ -225,7 +225,7 @@ agenda:
 
   - hour: '17:05'
     tracks:
-      - name: 'Lightining Talks'
+      - name: 'Lightning Talks'
         tags:
           - track-hall
           - lt

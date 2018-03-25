@@ -155,7 +155,7 @@ agenda:
 
   - hour: '13:50'
     tracks:
-      - name: 'Lightining Talks'
+      - name: 'Lightning Talks'
         tags:
           - track-grace
           - lt
@@ -232,7 +232,7 @@ agenda:
 
   - hour: '16:40'
     tracks:
-      - name: 'Lightining Talks'
+      - name: 'Lightning Talks'
         tags:
           - track-hall
           - lt
