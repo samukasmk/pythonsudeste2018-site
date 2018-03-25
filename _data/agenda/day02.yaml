@@ -76,7 +76,7 @@ agenda:
   - hour: '10:45'
     tracks:
       - name: 'Keynote'
-        speaker: 'Bernardo Fontes'
+        speaker: 'Cássio Botaro'
         tags:
           - track-ada
           - keynote
