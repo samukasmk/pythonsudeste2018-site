@@ -24,15 +24,17 @@ agenda:
 
   - hour: '09:35'
     tracks:
-      - name: 'Tutorial a definir'
-        speaker: 'Palestrante a definir'
-        duration: 'a definir'
+      - name: 'Libertando bases de dados públicas'
+        speaker: 'Álvaro Justen [Turicas]'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-tutoriais/#libertando-bases-de-dados-publicas'
+        duration: '3 horas e 20 minutos (+1 hora p/ almoço)'
         tags:
           - track-mary
           - tutorial
-      - name: 'Tutorial a definir'
-        speaker: 'Palestrante a definir'
-        duration: 'a definir'
+      - name: 'Case Recommender: Utilizando Python para desenvolver sistemas de recomendação'
+        speaker: 'Arthur Fortes'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-tutoriais/#case-recommender-utilizando-python-para-desenvolver-sistemas-de-recomendacao'
+        duration: '4 horas (+1 hora p/ almoço)'
         tags:
           - track-kate
           - tutorial
@@ -98,24 +100,6 @@ agenda:
       - name: '11:50 - <span class="track label-pink">Sala Grace Hooper</span>'
       - name: '12:05 - <span class="track label-aqua-marine">Sala Katherine Johnson</span>'
 
-  - hour: '12:35'
-    tracks:
-      - name: 'Tutorial a definir'
-        speaker: 'Palestrante a definir'
-        duration: 'a definir'
-        tags:
-          - track-mary
-          - tutorial
-
-  - hour: '13:05'
-    tracks:
-      - name: 'Tutorial a definir'
-        speaker: 'Palestrante a definir'
-        duration: 'a definir'
-        tags:
-          - track-kate
-          - tutorial
-
   - hour: '13:10'
     tracks:
       - name: 'Palestra a definir'
@@ -174,21 +158,22 @@ agenda:
       - name: '15:00 - <span class="track label-purple">Sala Dorothy Vaughan</span>'
       - name: '15:05 - <span class="track label-red">Sala Ada Lovelace</span>'
 
-
   - hour: '14:55'
     tracks:
-      - name: 'Tutorial a definir'
-        speaker: 'Palestrante a definir'
-        duration: 'a definir'
+      - name: 'Muito mais que map, filter e reduce'
+        speaker: 'Eduardo Mendes'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-tutoriais/#muito-mais-que-map-filter-e-reduce'
+        duration: '3 horas'
         tags:
           - track-mary
           - tutorial
 
   - hour: '15:35'
     tracks:
-      - name: 'Tutorial a definir'
-        speaker: 'Palestrante a definir'
-        duration: 'a definir'
+      - name: 'Segurança da Informação e de Software'
+        speaker: 'Felipe Bidu'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-tutoriais/#seguranca-da-informacao-e-de-software'
+        duration: '2 horas e 20 minutos'
         tags:
           - track-kate
           - tutorial
