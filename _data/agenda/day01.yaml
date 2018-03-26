@@ -208,9 +208,8 @@ agenda:
 
   - hour: '17:00'
     tracks:
-      - name: 'Construindo sua primeira aplicação Assíncrona com Python - AioHttp'
-        speaker: 'Lays Rodrigues Silva'
-        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#construindo-sua-primeira-aplicacao-assincrona-com-python-aiohttp'
+      - name: 'Palestra a definir'
+        speaker: 'Palestrante a definir'
         tags:
           - track-ada
           - palestra
