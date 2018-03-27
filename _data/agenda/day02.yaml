@@ -68,9 +68,8 @@ agenda:
 
   - hour: '10:40'
     tracks:
-      - name: 'AWS - Uma visão ampla sobre a cloud da Amazon'
-        speaker: 'Michael Willian Trindade Coelho'
-        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#cloud-aws-uma-visao-ampla-sobre-a-cloud-da-amazon'
+      - name: 'Palestra a definir'
+        speaker: 'Palestrante a definir'
         tags:
           - track-grace
           - palestra
