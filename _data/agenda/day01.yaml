@@ -180,12 +180,11 @@ agenda:
 
   - hour: '15:55'
     tracks:
-      - name: 'Tutorial a definir'
-        speaker: 'Palestrante a definir'
-        duration: 'a definir'
+      - name: 'Anatomia de uma arquitetura data-centred'
+        speaker: 'Robson Júnior'
         tags:
           - track-grace
-          - tutorial
+          - palestra
 
   - hour: '16:05'
     tracks:
@@ -206,10 +205,19 @@ agenda:
           - track-dorothy
           - palestra
 
+  - hour: '16:50'
+    tracks:
+      - name: 'Por que Python é a linguagem que todos querem aprender?'
+        speaker: 'Moacir Moda Neto'
+        tags:
+          - track-grace
+          - palestra
+
   - hour: '17:00'
     tracks:
-      - name: 'Palestra a definir'
-        speaker: 'Palestrante a definir'
+      - name: 'Modelagem de Séries Temporais com Python'
+        speaker: 'Wilson Freitas'
+        link: 'http://wilsonfreitas.github.io/posts/modelagem-de-series-temporais-com-python-scipy-sp.html'
         tags:
           - track-ada
           - palestra

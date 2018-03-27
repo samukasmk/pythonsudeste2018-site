@@ -163,9 +163,8 @@ agenda:
 
   - hour: '15:35'
     tracks:
-      - name: 'Scrapy para usuários de bs4'
-        speaker: 'Henrique Barbosa Coura'
-        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#web-scraping-scrapy-para-usuarios-de-bs4'
+      - name: 'Palestra a definir'
+        speaker: 'Palestrante a definir'
         tags:
           - track-grace
           - palestra
