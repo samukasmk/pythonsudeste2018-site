@@ -102,8 +102,8 @@ agenda:
 
   - hour: '13:10'
     tracks:
-      - name: 'Palestra a definir'
-        speaker: 'Palestrante a definir'
+      - name: 'Automatize seus fluxos de trabalho com Airflow'
+        speaker: 'Gilson Filho'
         tags:
           - track-dorothy
           - palestra

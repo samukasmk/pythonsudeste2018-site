@@ -69,8 +69,8 @@ agenda:
 
   - hour: '10:40'
     tracks:
-      - name: 'Palestra a definir'
-        speaker: 'Palestrante a definir'
+      - name: 'Introdução a algoritmos genéticos'
+        speaker: 'Luis Cavalcanti'
         tags:
           - track-grace
           - palestra
@@ -111,9 +111,8 @@ agenda:
 
   - hour: '13:20'
     tracks:
-      - name: 'Mas cadê as oportunidades Python ?'
-        speaker: 'Vinicius Mesel'
-        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#mas-cade-as-oportunidades-de-python-elas-estao-na-comunidade-e-no-pyjobs'
+      - name: 'Eventos extremos, rejeição e a cura do salário baixo'
+        speaker: 'Augusto Goulart'
         tags:
           - track-grace
           - palestra

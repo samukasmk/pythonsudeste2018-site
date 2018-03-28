@@ -154,17 +154,18 @@ agenda:
 
   - hour: '15:00'
     tracks:
-      - name: 'Tutorial a definir'
-        speaker: 'Palestrante a definir'
-        duration: 'a definir'
+      - name: 'Provisionamento multi-nuvens com libcloud'
+        speaker: 'Jean Oliveira Rodrigues'
+        duration: '2 horas e 20 minutos'
         tags:
           - track-mary
           - tutorial
 
   - hour: '15:35'
     tracks:
-      - name: 'Palestra a definir'
-        speaker: 'Palestrante a definir'
+      - name: 'Mas cadê as oportunidades Python ?'
+        speaker: 'Vinicius Mesel'
+        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#mas-cade-as-oportunidades-de-python-elas-estao-na-comunidade-e-no-pyjobs'
         tags:
           - track-grace
           - palestra
