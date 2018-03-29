@@ -85,9 +85,8 @@ agenda:
 
   - hour: '10:55'
     tracks:
-      - name: 'Programação Assíncrona com Twisted'
-        speaker: 'Tonny Dourado'
-        link: 'https://speakerfight.com/events/python-sudeste-2018-palestras/#programacao-assincrona-com-twisted'
+      - name: 'Palestra a definir'
+        speaker: 'Palestrante a definir'
         tags:
           - track-grace
           - palestra
